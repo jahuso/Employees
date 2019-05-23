@@ -1,0 +1,12 @@
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.csprojAssemblyReference.cache
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.csproj.CoreCompileInputs.cache
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.AssemblyInfoInputs.cache
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.AssemblyInfo.cs
+F:\MasGlobal\API\Employees.DAL\bin\Debug\netcoreapp2.1\Employees.DAL.deps.json
+F:\MasGlobal\API\Employees.DAL\bin\Debug\netcoreapp2.1\Employees.DAL.dll
+F:\MasGlobal\API\Employees.DAL\bin\Debug\netcoreapp2.1\Employees.DAL.pdb
+F:\MasGlobal\API\Employees.DAL\bin\Debug\netcoreapp2.1\Employees.DTO.dll
+F:\MasGlobal\API\Employees.DAL\bin\Debug\netcoreapp2.1\Employees.DTO.pdb
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.csproj.CopyComplete
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.dll
+F:\MasGlobal\API\Employees.DAL\obj\Debug\netcoreapp2.1\Employees.DAL.pdb

@@ -1,0 +1,15 @@
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\Employees.DAL.dll
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\Employees.DTO.dll
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\Employees.DAL.pdb
+F:\MasGlobal\API\ConsoleApp1\bin\Debug\netcoreapp2.1\Employees.DTO.pdb
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+F:\MasGlobal\API\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

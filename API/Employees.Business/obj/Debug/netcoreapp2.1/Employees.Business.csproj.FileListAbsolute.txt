@@ -1,0 +1,14 @@
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.csprojAssemblyReference.cache
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.csproj.CoreCompileInputs.cache
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.AssemblyInfoInputs.cache
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.AssemblyInfo.cs
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.Business.deps.json
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.Business.dll
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.Business.pdb
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.DAL.dll
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.DTO.dll
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.DAL.pdb
+F:\MasGlobal\API\Employees.Business\bin\Debug\netcoreapp2.1\Employees.DTO.pdb
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.csproj.CopyComplete
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.dll
+F:\MasGlobal\API\Employees.Business\obj\Debug\netcoreapp2.1\Employees.Business.pdb

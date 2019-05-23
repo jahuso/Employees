@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Employees.DAL\Employees.DAL.csproj" />
+    <ProjectReference Include="..\Employees.DTO\Employees.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

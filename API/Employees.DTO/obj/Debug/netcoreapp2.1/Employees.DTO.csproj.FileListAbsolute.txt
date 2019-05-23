@@ -1,0 +1,9 @@
+F:\MasGlobal\API\Employees.DTO\bin\Debug\netcoreapp2.1\Employees.DTO.deps.json
+F:\MasGlobal\API\Employees.DTO\bin\Debug\netcoreapp2.1\Employees.DTO.dll
+F:\MasGlobal\API\Employees.DTO\bin\Debug\netcoreapp2.1\Employees.DTO.pdb
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.csproj.CoreCompileInputs.cache
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.AssemblyInfoInputs.cache
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.AssemblyInfo.cs
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.dll
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.pdb
+F:\MasGlobal\API\Employees.DTO\obj\Debug\netcoreapp2.1\Employees.DTO.csprojAssemblyReference.cache
