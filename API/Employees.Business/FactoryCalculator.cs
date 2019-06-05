@@ -22,7 +22,6 @@ namespace Employees.Business
                     break;
                 default:
                     throw new InvalidEnumArgumentException($"The type of contractType {employee.contractTypeName} does not exists.");
-                    break;
             }
 
             return instance;
